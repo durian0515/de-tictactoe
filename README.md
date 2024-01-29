@@ -1,2 +1,2 @@
-# tictactoe-poc
-A demo of tic-tac-toe game for PoC test.
+# de-tictactoe
+A demo of tic-tac-toe game powered by Ethereum Network.
