@@ -1,2 +1,2 @@
-# de-tictactoe
-INF1005_106 final project; Tic-tac-toe gaming powered by blockchain
+# tictactoe-poc
+A demo of tic-tac-toe game for PoC test.
